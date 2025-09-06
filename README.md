@@ -2,11 +2,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tmhakim.tmhakim" />
 
 <h1 align="center">Hey, I’m Taher Hakim! 🙋‍♂️</h1>
-<p align="center" style="color: #666;">Building Android ROMs, one commit at a time.</p>
+<p align="center" style="color: #666;"> A Noob Developer.</p>
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=555555&background=transparent&center=true&vCenter=true&width=600&lines=Custom+ROM+Maintainer;Always+Learning" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=555555&background=transparent&center=true&vCenter=true&width=600&lines=Ex+Custom+ROM+Maintainer;But+I'm+Always+Learning" />
   </a>
 </h2>
 
@@ -22,11 +22,10 @@
 
 ## About Me
 
-I’m steadily building my skills and maintaining Android ROM projects.  
-Each commit is a step forward.
+Retired ROM Maintainer  
 
-- Working on device trees and kernels for many Custom ROMs 
-- Exploring Android internals patiently.  
+- I used to work on device trees and kernels for many Custom ROMs 
+- I have Explored Android internals patiently.  
 - Based in UAE, originally from India.
 
 ---
